@@ -1,0 +1,30 @@
+@media screen and (min-width:700px) and (max-width:964px){
+    .btn{
+        min-width: 7vw;
+        min-height: 7vh;
+        font-size:1.0em;
+    }
+    .inputText input{
+        width:26vw;
+    }
+}
+@media screen and (min-width:555px) and (max-width:800px){
+.btn{
+    min-width: 10vw;
+    min-height: 8vh;
+    font-size:1.0em;
+}
+.inputText input{
+    width:37vw;
+}
+}
+@media screen and (min-width:300px) and (max-width:555px){
+.btn{
+    min-width: 15vw;
+    min-height: 8vh;
+    font-size:1.0em;
+}
+.inputText input{
+    width:53vw;
+}
+}
